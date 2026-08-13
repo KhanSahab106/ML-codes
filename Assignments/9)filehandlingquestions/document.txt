@@ -1,0 +1,2 @@
+this is main document
+used to count the no of words in document

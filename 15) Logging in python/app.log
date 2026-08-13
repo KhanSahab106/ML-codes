@@ -1,0 +1,5 @@
+26-02-24 15:31:15-root-DEBUG-the addition function is called
+26-02-24 15:31:15-root-DEBUG-the addition operation is taking place
+2026-02-24 15:36:49,993-ipykernel.comm-ERROR-No such comm target registered: jupyter.widget.control
+2026-02-24 15:36:49,997-Comm-WARNING-No such comm: 07cf7825-2be1-496c-9630-fdf56fbda487
+2026-02-24 15:36:49,997-Comm-DEBUG-Current comms: []
